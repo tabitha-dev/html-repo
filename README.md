@@ -38,6 +38,6 @@ Goal: practice stash save and restore, delete the merged feature branch locally 
 2. Open index.html in a browser
 
 ## Contact
-Tabitha Khadse  
+Tabitha K  
 Email: tabitha@ieee.org  
 GitHub: https://github.com/tabitha-dev
